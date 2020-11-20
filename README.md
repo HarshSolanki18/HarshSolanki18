@@ -16,7 +16,7 @@
 I'm a final year Computer Science student from Indore. I am a full stack developer, always exploring new technologies and having fun with them.
 
 - 🔭 I’m currently working on MERN stack.
-- 🌱 I’m currently learning AR.
+- 🌱 I’m currently learning Ethereum Blockchain.
 - 📫 How to reach me(preference): hsolanki1884@gmail.com
 </br>
 
