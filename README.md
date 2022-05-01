@@ -13,10 +13,10 @@
 
 <br>
 <br>
-I'm a final year Computer Science student from Indore. I am a full stack developer, always exploring new technologies and having fun with them.
+I am a full stack developer, always exploring new technologies and having fun with them.
 
 - 🔭 I’m currently working on MERN stack.
-- 📫 How to reach me(preference): hsolanki1884@gmail.com
+- 📫 How to reach me: hsolanki1884@gmail.com
 </br>
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=HarshSolanki18&show_icons=true&count_private=true&hide=issues) 
