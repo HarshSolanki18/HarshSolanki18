@@ -16,7 +16,7 @@
 I am a software developer, constantly exploring and having fun with new technologies.
 
 
-- 📫 How to reach me: hsolanki1884@gmail.com
+📫 How to reach me: hsolanki1884@gmail.com
 </br>
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=HarshSolanki18&show_icons=true&count_private=true&hide=issues) 
