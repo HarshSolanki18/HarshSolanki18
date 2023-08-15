@@ -7,7 +7,7 @@
 <a href="mailto:hsolanki1884@gmail.com/">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />
 </a>
-<a href="https://twitter.com/_HarshSolanki/">
+<a href="https://twitter.com/HarshSo21880632/">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />
 </a>
 
