@@ -13,9 +13,9 @@
 
 <br>
 <br>
-I am a full stack developer, always exploring new technologies and having fun with them.
+I am a software developer, constantly exploring and having fun with new technologies.
 
-- 🔭 I’m currently working on MERN stack.
+
 - 📫 How to reach me: hsolanki1884@gmail.com
 </br>
 
